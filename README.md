@@ -13,14 +13,14 @@ C++ code written by Garrett Brumley with contributions from Jacob Montes.
 Built using Visual Studio 2015/2017 using
   - Windows API <Windows.h>
   - Standard C/C++ libraries including
-    - <iostream>
-    - <iomanip>
-    - <fstream>
-    - <string>
-    - <cstring>
-    - <cctype>
-    - <stdio.h>
-    - <stdlib.h>
+    - iostream
+    - iomanip
+    - fstream
+    - string
+    - cstring
+    - cctype
+    - stdio.h
+    - stdlib.h
 
 
 Files included:
