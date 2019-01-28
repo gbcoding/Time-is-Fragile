@@ -1,5 +1,5 @@
 #include "Items.h"
-// for implementation of the Objects in Object.h
+// for implementation of the Items in the gameworld
 Item::Item(string init_name, int init_x, int init_y, int init_amount, status map[][30])
 {
 	x = init_x;
